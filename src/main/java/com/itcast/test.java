@@ -23,6 +23,10 @@ public class test {
         System.out.println("1111111111111111");
 
 
+
     }
 
+    public void test1(){
+        System.out.println("0000000");
+    }
 }
